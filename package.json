@@ -2,10 +2,10 @@
     "name": "nginx-syntax-highlighter",
     "displayName": "Nginx Syntax Highlighter",
     "description": "Adds syntax highlighting and snippet support to Nginx configuration files.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "almir",
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^1.22.0"
     },
     "repository": {
         "type": "GitHub",
