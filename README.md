@@ -17,4 +17,4 @@ See [Changelog][4]
 [1]: https://github.com/hnagato/atom-language-nginx
 [2]: https://code.visualstudio.com/
 [3]: https://marketplace.visualstudio.com/items?itemName=almir.nginx-syntax-highlighter
-[4]: https://github.com/almir/CHANGELOG.md
+[4]: https://github.com/almir/nginx-syntax-highlighter/CHANGELOG.md
