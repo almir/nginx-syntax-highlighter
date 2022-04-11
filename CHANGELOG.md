@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [1.0.2]
+
+- Fix link to Changelog in README.
+
+## [1.0.1]
+
+- Support for older VS Code versions.
+
 ## [1.0.0]
 
 - Initial release
